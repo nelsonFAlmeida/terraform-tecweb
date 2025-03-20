@@ -1,4 +1,6 @@
-project_name   = "ultra-ace-454219-c9"
-project_number = 66863148827
+project_name   = ""
+project_number = 
 region         = ""
-
+db_password = ""
+github_key = ""
+github_app_id = 0
